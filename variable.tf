@@ -8,7 +8,7 @@ variable "region" {
 variable "instance_type" {
   description = "Value of the regions"
   type        = string
-  default     = "t2.micro"
+  default     = "t3.micro"
 }
 
 
